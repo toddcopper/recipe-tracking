@@ -1,0 +1,10 @@
+form.create-table td:nth-child(4),
+.recipe-list td:nth-child(5) {
+  /* background-color: blue; */
+  width: 30%;
+}
+form.create-table td:nth-child(-n + 3),
+form.create-table td:nth-child(6) {
+  /* background-color: yellow; */
+  width: 10%;
+}
